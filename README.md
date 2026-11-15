@@ -34,3 +34,11 @@ flutter pub get
 ```bash
 flutter run
 ````
+Ekran Görünütüleri
+
+<img width="422" height="858" alt="Ekran görüntüsü 2026-11-16 000734" src="https://github.com/user-attachments/assets/7183ebbf-74cd-49ab-b44d-4334e1c2349f" />
+<img width="416" height="855" alt="Ekran görüntüsü 2026-11-16 000712" src="https://github.com/user-attachments/assets/029800f2-15b5-46ac-bf49-85e4b40af320" />
+<img width="417" height="861" alt="Ekran görüntüsü 2026-11-16 000701" src="https://github.com/user-attachments/assets/b5575ac6-57fe-4d9a-b222-70322a8ac27c" />
+<img width="411" height="866" alt="Ekran görüntüsü 2026-11-16 000640" src="https://github.com/user-attachments/assets/9769bfb7-b1ac-4d81-9b14-c0aaa0388fd7" />
+<img width="417" height="857" alt="Ekran görüntüsü 2026-11-16 000753" src="https://github.com/user-attachments/assets/d8d836dd-c3e3-4a73-8c6c-ad59ebfaf305" />
+
