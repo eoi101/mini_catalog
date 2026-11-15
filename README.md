@@ -12,8 +12,8 @@ Uygulama; Apple ekosistemine ait ürünlerin listelendiği modern bir e-ticaret 
 
 ## 🛠️ Kullanılan Teknolojiler ve Sürüm
 
-- **Flutter SDK:** 3.x (Kararlı Sürüm)
-- **Dart SDK:** Dahili Sürüm
+- **Flutter SDK:** 3.50
+- **Dart SDK:** 3.13.7
 - **Geliştirme Ortamı:** Visual Studio Code / Android Studio & Android Emulator (`Medium_Phone_API_37.0`)
 - **Paketler:** Sadece `material.dart` (Harici paket kullanılmamıştır).
 
